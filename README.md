@@ -1,4 +1,4 @@
-<h2 align="center">Notícias cidade</h2>
+<h1 align="center">Notícias cidade</h1>
 
 <p align="center">
   <a href="#-about-the-project">Sobre o projeto</a>     |   
